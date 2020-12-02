@@ -2,4 +2,4 @@
 *.csv
 *.swp
 *checkpoint*
-.ipynb_checkpoints/PoolHP-checkpoint.ipynb
+ipynb_checkpoints/
